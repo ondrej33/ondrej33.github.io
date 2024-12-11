@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["eval_formula","eval_formula_dirty","eval_multiple_formulas","eval_multiple_formulas_dirty","eval_multiple_trees","eval_multiple_trees_dirty","eval_tree","eval_tree_dirty","parse_and_validate"]};

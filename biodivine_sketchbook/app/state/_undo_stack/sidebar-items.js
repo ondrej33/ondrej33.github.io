@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEFAULT_EVENT_LIMIT","DEFAULT_PAYLOAD_LIMIT"],"struct":["UndoStack","UndoStackEntry"]};

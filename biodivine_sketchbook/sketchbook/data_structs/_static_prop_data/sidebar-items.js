@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["StatPropertyTypeData"],"fn":["input_id_to_index","input_index_to_id"],"struct":["FnInputEssentialData","FnInputMonotonicData","GenericStatPropData","RegulationEssentialData","RegulationMonotonicData","StatPropertyData"]};

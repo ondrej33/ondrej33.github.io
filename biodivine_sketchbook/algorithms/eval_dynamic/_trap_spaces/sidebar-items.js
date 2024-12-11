@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["colors_where_essential_traps","colors_where_minimal_traps","compute_essential_trap_spaces","compute_minimal_trap_spaces","encode_obs_as_singleton_space"]};

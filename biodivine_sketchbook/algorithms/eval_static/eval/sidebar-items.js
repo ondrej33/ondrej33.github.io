@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["eval_static_prop"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SimpleStatPropertyType","StatPropertyType"],"fn":["are_same_stat_variant"],"struct":["FnInputEssential","FnInputMonotonic","GenericStatProp","RegulationEssential","RegulationMonotonic"]};

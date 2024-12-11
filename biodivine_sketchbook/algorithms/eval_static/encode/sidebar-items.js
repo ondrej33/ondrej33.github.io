@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["encode_essentiality","encode_monotonicity","encode_property_in_context","encode_regulation_essentiality","encode_regulation_monotonicity"]};

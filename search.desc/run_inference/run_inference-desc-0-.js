@@ -1,0 +1,1 @@
+searchState.loadedDescShard("run_inference", 0, "Structure to collect CLI arguments\nReturns the argument unchanged.\nWrapper to create an inference solver, run the inference …\nCalls <code>U::from(self)</code>.\nPath to a file with a model in aeon sketch format.")

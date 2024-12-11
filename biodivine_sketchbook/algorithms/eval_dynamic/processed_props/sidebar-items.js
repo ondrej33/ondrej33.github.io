@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DataEncodingType","ProcessedDynProp"],"fn":["process_dynamic_props"],"struct":["ProcessedAttrCount","ProcessedHctlFormula","ProcessedTrapSpace"]};

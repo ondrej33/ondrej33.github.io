@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["debug","error","generate_property_enums","info","log","warning"],"mod":["algorithms","app","inference","logging","sketchbook"]};

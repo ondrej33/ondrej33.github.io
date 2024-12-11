@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["mk_essentiality_prop","mk_fol_prop","mk_hctl_prop","mk_monotonicity_prop"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["essentiality_from_bool","essentiality_to_bool","sign_from_monotonicity","sign_to_monotonicity"]};

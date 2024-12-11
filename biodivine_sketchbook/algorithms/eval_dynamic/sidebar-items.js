@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["_attractors","_trap_spaces","encode","eval","prepare_graph","processed_props"]};

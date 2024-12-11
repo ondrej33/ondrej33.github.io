@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["make_refresh_event","make_reversible","make_state_change","mk_dyn_prop_event","mk_dyn_prop_state_change","mk_model_event","mk_model_state_change","mk_obs_event","mk_obs_state_change","mk_stat_prop_event","mk_stat_prop_state_change"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FnTree"],"fn":["parse_update_fn_wrapper"]};

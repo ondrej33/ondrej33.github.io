@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["biodivine_sketchbook","byteorder","cfg_if","getrandom","log","proc_macro2","run_inference","smallvec","stable_deref_trait","unicode_ident","windows_targets","windows_x86_64_msvc"];
+//{"start":21,"fragment_lengths":[22,12,9,12,6,14,16,11,21,16,18,22]}

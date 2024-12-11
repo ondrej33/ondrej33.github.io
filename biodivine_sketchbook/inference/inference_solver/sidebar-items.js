@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["requires_candidate_num"],"struct":["FinishedInferenceSolver","InferenceSolver"]};

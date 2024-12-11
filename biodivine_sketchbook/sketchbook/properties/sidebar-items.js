@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["_macros","_manager","dynamic_props","shortcuts","static_props"],"struct":["PropertyManager"],"type":["DynPropIterator","StatPropIterator"]};

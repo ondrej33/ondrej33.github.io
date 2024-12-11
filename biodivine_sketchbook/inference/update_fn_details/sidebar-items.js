@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_UPDATE_FN_COUNT"],"fn":["get_update_fn_variants","num_update_fn_variants_per_var"]};

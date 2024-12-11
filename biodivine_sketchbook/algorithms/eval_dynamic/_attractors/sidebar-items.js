@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["process_component","sort_colors_by_attr_num"],"mod":["itgr","saturated_reachability","xie_beerel"]};
